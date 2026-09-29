@@ -99,8 +99,7 @@ int main() {
 
     cout << left << setw(15) << "Code"
          << setw(20) << "Item"
-         << right << setw(10) << "Quantity"
-         << setw(12) << "Price" << endl;
+         << right << setw(10) << "Quantity"         << setw(12) << "Price" << endl;
 
     cout << left << setw(15) << itemCode
          << setw(20) << foodName
