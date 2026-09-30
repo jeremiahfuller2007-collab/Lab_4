@@ -6,7 +6,6 @@ using namespace std;
 int main() {
     // Variables
     string foodName;
-    string cashierNotes;
     char itemCode;
     char memberChoice;
     int quantity;
@@ -55,8 +54,6 @@ int main() {
     // Clear leftover newline before getline()
     cin.ignore();
 
-    cout << "Enter cashier notes: ";
-    getline(cin, cashierNotes);
 
     // Receipt
     cout << "\n========================================\n";
@@ -87,9 +84,6 @@ int main() {
 
     cout << left << setw(20) << "Total:"
          << right << setw(15) << total << endl;
-
-    cout << left << setw(20) << "Cashier Notes:"
-         << right << setw(15) << cashierNotes << endl;
 
     cout << "========================================\n";
 
