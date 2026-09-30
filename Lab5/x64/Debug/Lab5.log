@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\jfuller7\source\repos\jeremiahfuller2007-collab\Lab_5\Lab5\main.cpp(120,20): error C2446: '==': no conversion from 'const char [2]' to 'int'
+      C:\Users\jfuller7\source\repos\jeremiahfuller2007-collab\Lab_5\Lab5\main.cpp(120,23):
+      There is no context in which this conversion is possible
+  
+C:\Users\jfuller7\source\repos\jeremiahfuller2007-collab\Lab_5\Lab5\main.cpp(135,24): error C2446: '==': no conversion from 'const char [2]' to 'int'
+      C:\Users\jfuller7\source\repos\jeremiahfuller2007-collab\Lab_5\Lab5\main.cpp(135,27):
+      There is no context in which this conversion is possible
+  
+C:\Users\jfuller7\source\repos\jeremiahfuller2007-collab\Lab_5\Lab5\main.cpp(150,28): error C2446: '==': no conversion from 'const char [2]' to 'int'
+      C:\Users\jfuller7\source\repos\jeremiahfuller2007-collab\Lab_5\Lab5\main.cpp(150,31):
+      There is no context in which this conversion is possible
+  
+C:\Users\jfuller7\source\repos\jeremiahfuller2007-collab\Lab_5\Lab5\main.cpp(135,32): error C1075: '{': no matching token found
